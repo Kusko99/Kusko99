@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Oliveira</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fprogramming&psig=AOvVaw2D4d58iZtizoRbSb9ugGPs&ust=1702403213756000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCVorn4h4MDFQAAAAAdAAAAABAI">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kusko99&label=Profile%20views&color=0e75b6&style=flat" alt="kusko99" /> </p>
 
