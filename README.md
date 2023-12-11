@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Oliveira</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate backend developer from Brazil</h3>
 
 <img img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/thank-goodness-i-took-that-coding-course-gkl7f76y3vwkuyh9.gif">
 
