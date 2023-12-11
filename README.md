@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Oliveira</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-<img align="right" alt="Coding" width="200" src="https://gifdb.com/images/high/programming-typing-cat-meme-tjogs4o3p6l1vu0w.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-typing-cat-meme-tjogs4o3p6l1vu0w.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kusko99&label=Profile%20views&color=0e75b6&style=flat" alt="kusko99" /> </p>
 
