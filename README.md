@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python and Java**
 
-- 📫 How to reach me **fernandofreitasoliveira@gmail.com**
+- 📫 How to reach me **fernandofreitasoliveira2000@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/41h1pGE](https://bit.ly/41h1pGE)
 
