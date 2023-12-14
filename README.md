@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **fernandofreitasoliveira2000@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/41h1pGE](https://bit.ly/41h1pGE)
+- 📄 Know about my experiences [https://bit.ly/3Nrdrrk](https://bit.ly/3Nrdrrk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
